@@ -1,0 +1,150 @@
+﻿  AutoDetection.cpp
+  Config.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  The contents of <filesystem> are available only with C++17 or later.
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Config.hpp(74,7): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Config.hpp(74,19): error C2039: 'path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\fstream(26): message : see declaration of 'std'
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Config.hpp(74,24): error C3646: 'path': unknown override specifier
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Config.hpp(74,28): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Config.hpp(88,38): error C2065: 'path': undeclared identifier
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Config.hpp(88,18): error C3615: constexpr function 'c_config::get_path' cannot result in a constant expression
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Config.hpp(88): message : failure was caused by control reaching the end of a constexpr function
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Config.hpp(194,16): error C7525: inline variables require at least '/std:c++17'
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Config.cpp(5,2): error C2065: 'path': undeclared identifier
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Config.cpp(6,11): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Config.cpp(6,23): error C2039: 'is_directory': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\fstream(26): message : see declaration of 'std'
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Config.cpp(6,36): error C2065: 'path': undeclared identifier
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Config.cpp(6,5): error C3861: 'is_directory': identifier not found
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Config.cpp(10,9): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Config.cpp(10,21): error C2039: 'directory_iterator': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\fstream(26): message : see declaration of 'std'
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Config.cpp(10,39): error C2065: 'directory_iterator': undeclared identifier
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Config.cpp(10,41): error C2065: 'path': undeclared identifier
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Config.cpp(11,9): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Config.cpp(11,21): error C2039: 'directory_iterator': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\fstream(26): message : see declaration of 'std'
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Config.cpp(11,39): error C2065: 'directory_iterator': undeclared identifier
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Config.cpp(20,2): error C2065: 'path': undeclared identifier
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Config.cpp(21,11): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Config.cpp(21,23): error C2039: 'is_directory': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\fstream(26): message : see declaration of 'std'
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Config.cpp(21,36): error C2065: 'path': undeclared identifier
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Config.cpp(21,5): error C3861: 'is_directory': identifier not found
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Config.cpp(25,9): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Config.cpp(25,21): error C2039: 'directory_iterator': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\fstream(26): message : see declaration of 'std'
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Config.cpp(25,39): error C2065: 'directory_iterator': undeclared identifier
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Config.cpp(25,41): error C2065: 'path': undeclared identifier
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Config.cpp(26,9): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Config.cpp(26,21): error C2039: 'directory_iterator': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\fstream(26): message : see declaration of 'std'
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Config.cpp(26,39): error C2065: 'directory_iterator': undeclared identifier
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Config.cpp(35,12): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Config.cpp(35,24): error C2039: 'is_directory': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\fstream(26): message : see declaration of 'std'
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Config.cpp(35,37): error C2065: 'path': undeclared identifier
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Config.cpp(35,5): error C3861: 'is_directory': identifier not found
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Config.cpp(37,8): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Config.cpp(37,27): error C2065: 'path': undeclared identifier
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Config.cpp(38,8): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Config.cpp(38,20): error C2039: 'create_directory': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\fstream(26): message : see declaration of 'std'
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Config.cpp(38,37): error C2065: 'path': undeclared identifier
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Config.cpp(38,36): error C3861: 'create_directory': identifier not found
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Config.cpp(41,20): error C2065: 'path': undeclared identifier
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Config.cpp(52,12): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Config.cpp(52,24): error C2039: 'is_directory': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\fstream(26): message : see declaration of 'std'
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Config.cpp(52,37): error C2065: 'path': undeclared identifier
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Config.cpp(52,5): error C3861: 'is_directory': identifier not found
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Config.cpp(54,8): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Config.cpp(54,27): error C2065: 'path': undeclared identifier
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Config.cpp(57,21): error C2065: 'path': undeclared identifier
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Config.cpp(70,8): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Config.cpp(70,20): error C2039: 'create_directory': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\fstream(26): message : see declaration of 'std'
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Config.cpp(70,37): error C2065: 'path': undeclared identifier
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Config.cpp(70,36): error C3861: 'create_directory': identifier not found
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Config.cpp(76,7): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Config.cpp(76,26): error C2065: 'path': undeclared identifier
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Config.cpp(82,7): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Config.cpp(82,26): error C2065: 'path': undeclared identifier
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Config.cpp(82,48): error C2065: 'path': undeclared identifier
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Config.cpp(82,63): error C2660: 'rename': function does not take 1 arguments
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdio.h(374,26): message : see declaration of 'rename'
+  imgui.cpp
+  imgui_draw.cpp
+  imgui_impl_dx9.cpp
+  imgui_impl_win32.cpp
+  imgui_widgets.cpp
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\imgui-docking\imgui_widgets.cpp(2120,69): warning C4305: 'argument': truncation from 'double' to 'const float'
+  Main.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  The contents of <filesystem> are available only with C++17 or later.
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Config.hpp(74,7): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Config.hpp(74,19): error C2039: 'path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\fstream(26): message : see declaration of 'std'
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Config.hpp(74,24): error C3646: 'path': unknown override specifier
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Config.hpp(74,28): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Config.hpp(88,38): error C2065: 'path': undeclared identifier
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Config.hpp(88,18): error C3615: constexpr function 'c_config::get_path' cannot result in a constant expression
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Config.hpp(88): message : failure was caused by control reaching the end of a constexpr function
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Config.hpp(194,16): error C7525: inline variables require at least '/std:c++17'
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Xor2.hpp(79,12): error C3533: a parameter cannot have a type that contains 'auto'
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Xor2.hpp(79,12): message : 'auto' in non-type template parameters requires at least '/std:c++17'
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Xor2.hpp(79,20): error C3533: a parameter cannot have a type that contains 'auto'
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Xor2.hpp(79,20): message : 'auto' in non-type template parameters requires at least '/std:c++17'
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Xor2.hpp(91,12): error C3533: a parameter cannot have a type that contains 'auto'
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Xor2.hpp(91,12): message : 'auto' in non-type template parameters requires at least '/std:c++17'
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Xor2.hpp(178,62): error C7518: fold expressions require at least '/std:c++17'
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Xor2.hpp(175,27): message : This diagnostic occurred in the compiler generated function 'void jm::xor_string<T,Keys...>::_crypt_256(const uint64_t *,std::integer_sequence<size_t,indices...>) noexcept'
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Xor2.hpp(252): message : see reference to class template instantiation 'jm::xor_string<T,Keys...>' being compiled
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Xor2.hpp(194,62): error C7518: fold expressions require at least '/std:c++17'
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Xor2.hpp(191,27): message : This diagnostic occurred in the compiler generated function 'void jm::xor_string<T,Keys...>::_crypt_128(const uint64_t *,std::integer_sequence<size_t,indices...>) noexcept'
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Main.cpp(19,162): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Main.cpp(19,215): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Main.cpp(19,189): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Main.cpp(89,10): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Main.cpp(89,22): error C2039: 'create_directories': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\fstream(26): message : see declaration of 'std'
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Main.cpp(89,40): error C3861: 'create_directories': identifier not found
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Main.cpp(218,162): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Main.cpp(218,215): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Main.cpp(218,189): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Main.cpp(247,38): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Main.cpp(247,59): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  RecoilTables.cpp
+  Script.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  The contents of <filesystem> are available only with C++17 or later.
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Config.hpp(74,7): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Config.hpp(74,19): error C2039: 'path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\fstream(26): message : see declaration of 'std'
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Config.hpp(74,24): error C3646: 'path': unknown override specifier
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Config.hpp(74,28): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Config.hpp(88,38): error C2065: 'path': undeclared identifier
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Config.hpp(88,18): error C3615: constexpr function 'c_config::get_path' cannot result in a constant expression
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Config.hpp(88): message : failure was caused by control reaching the end of a constexpr function
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Config.hpp(194,16): error C7525: inline variables require at least '/std:c++17'
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Script.cpp(132,70): warning C4018: '<': signed/unsigned mismatch
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Script.cpp(354,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Script.cpp(355,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Script.cpp(373,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Script.cpp(374,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Script.cpp(377,22): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Script.cpp(378,22): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Script.cpp(380,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Script.cpp(380,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Script.cpp(401,27): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Script.cpp(767,21): warning C4551: function call missing argument list
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Script.cpp(851,19): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Script.cpp(937,83): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Script.cpp(938,89): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Script.cpp(939,90): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Script.cpp(940,100): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Script.cpp(941,96): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Script.cpp(942,90): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\levow\Downloads\peakgotbunned\keyauth imgui update\Script.cpp(943,92): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
